@@ -4,6 +4,7 @@ Git ist ein Versionsverwaltungssystem.
 
 Hallo git
 
+<<<<<<< HEAD
 ö
 
 flo
@@ -11,4 +12,16 @@ flo
 floriaan
 
 flooo
+=======
+<<<<<<< HEAD
+Arlind
 
+Qemaledini
+=======
+Leandro
+>>>>>>> 3201c244f2a4973efb7f8466acb57dd2a02c6715
+Ad
+ajhsdhasjdhjashdja
+>>>>>>> cf871aa79dc517a174b7775102e2ddf55759f867
+
+hallloooo
